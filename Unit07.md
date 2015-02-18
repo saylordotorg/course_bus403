@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS403: Negotiations and Conflict Management"
+course_description: "A detailed survey of business negotiation skills and strategies designed to help maintain healthy business relationships. Examines the concepts, processes, strategies, and ethical issues related to negotiation, and appropriate conduct in a variety of business contexts."
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Final Exam** <span id="7"></span> 
 -   **Final Exam: The Saylor Foundation's BUS403 Final Exam**
     Link: The Saylor Foundation's "<span>[BUS403 Final

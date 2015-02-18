@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS403: Negotiations and Conflict Management"
+course_description: "A detailed survey of business negotiation skills and strategies designed to help maintain healthy business relationships. Examines the concepts, processes, strategies, and ethical issues related to negotiation, and appropriate conduct in a variety of business contexts."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Managing Different Types of Business Negotiations** <span
 id="4"></span> 
 *In this unit, you will learn about factors that are important for

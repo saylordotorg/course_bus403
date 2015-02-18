@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS403: Negotiations and Conflict Management"
+course_description: "A detailed survey of business negotiation skills and strategies designed to help maintain healthy business relationships. Examines the concepts, processes, strategies, and ethical issues related to negotiation, and appropriate conduct in a variety of business contexts."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Conflict Resolution** <span id="5"></span> 
 *Perhaps you feel that conflict is an inevitable part of life.  If you
 agree, you are not alone.  Have you have ever driven a car in rush hour

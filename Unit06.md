@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BUS403: Negotiations and Conflict Management"
+course_description: "A detailed survey of business negotiation skills and strategies designed to help maintain healthy business relationships. Examines the concepts, processes, strategies, and ethical issues related to negotiation, and appropriate conduct in a variety of business contexts."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: International and Cross Cultural Negotiation** <span
 id="6"></span> 
 *Negotiating across national and cultural boundaries raises additional
